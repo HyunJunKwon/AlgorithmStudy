@@ -1,1 +1,1 @@
-# AlgorithmStudy
+# skku
